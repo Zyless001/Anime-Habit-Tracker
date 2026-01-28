@@ -14,7 +14,7 @@ You begin with "Naruto" as your first anime character.
 4. If you go to the "Wheel" section, you may use your "HWP" to roll for more characters. When rolled,
 you may go to the "Characters" section again and select the new anime character by clicking them.
 
-5.Repeat as you do tasks and when you're done for the day delete your tasks and download a new save.
+5. Repeat as you do tasks and when you're done for the day delete your tasks and download a new save.
 Make sure you always "import save" before starting your day. Also, make sure to delete your past saves
 to avoid confusion (or rename them).
 
